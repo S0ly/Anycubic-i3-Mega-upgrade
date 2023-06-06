@@ -131,6 +131,9 @@ Thank you to everyone for the feedback, suggestions, and support during this jou
 
 little bonus : I have here logbook that I have written while making the upgrade you can read it to see the problem that I have encountered in the process, it can maybe save you some on your side ! and i putted some hard to find / important documentation that could help you in the help-asset folder, dont thanks me :)
 
+here is the result :
+![finished printer image](https://github.com/S0ly/Anycubic-i3-Mega-upgrade/blob/main/readme-asset/finished-printer.png)
+
 ---
 
 ## Ai3M Modification Adventure Journal
